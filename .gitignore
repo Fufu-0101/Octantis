@@ -1,6 +1,9 @@
-#Directories
-.vs
-bin/
-bin-int/
-#Files
-*.user
+/*
+!Octantis/src/
+!vendor/spdlog/include/
+!Sandbox/src/
+!vendor/bin/premake/
+!GenerateProjects.bat
+!LICENSE
+!premake5.lua
+!README.md

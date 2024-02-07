@@ -4,7 +4,7 @@
 //For use by Octantis applications
 
 #include "Octantis/Application.h"
-#include "stdio.h"
+#include "Octantis/Log.h"
 
 //-----------EntryPoint---------
 #include "Octantis/EntryPoint.h"
